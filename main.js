@@ -1,4 +1,240 @@
-// Di Sini Gada Apa-Apa
-// Edit Di Index.js
-function _0x25f7(){const _0x2b3764=['Connected\x20Timeout','readFileSync','../main.js','Sukses\x20Connecting\x20Kak🌚','6Vfzikn','value','1542130ZvForj','4ffzfHI','greenyellow','figlet','batterylevel','./setting.json','connecting','[\x20WATCH\x20]','3.0','File\x20is\x20updated!','273pKLCgl','chat-update','.json','white','batrei','../index.js','@adiwajshing/baileys','Koneksi\x20terputus,\x20mencoba\x20menghubungkan\x20kembali..','stringify','fs-extra','parse','./message/groupnya','connect','ws-close','push','textSync','767250tTJtEz','red','batteryLevelStr','base64EncodedAuthInfo','5527960gTxobN','botName','writeFileSync','Connect\x20To\x20Phone\x20Rejected\x20and\x20Shutting\x20Down.','289926WQozVV','browserDescription','CB:action,,battery','./lib/color','Elite','sessionName','63144rQArJN','113398epjHpU','warn','./main.js','42702qMCeCR','open','live','./index.js','close','yellow','Scan\x20bang','\x0aMencoba\x20mengkoneksi\x20ulang\x20:','log','Terputus,\x20Alasan\x20:','false','logger','Herman\x20Chanel'];_0x25f7=function(){return _0x2b3764;};return _0x25f7();}const _0x3669e6=_0x4a68;(function(_0x38906e,_0x1cc166){const _0x55e55a=_0x4a68,_0x46b456=_0x38906e();while(!![]){try{const _0x1b30e7=parseInt(_0x55e55a(0x20a))/0x1+-parseInt(_0x55e55a(0x211))/0x2*(parseInt(_0x55e55a(0x225))/0x3)+parseInt(_0x55e55a(0x1e9))/0x4*(-parseInt(_0x55e55a(0x1e8))/0x5)+-parseInt(_0x55e55a(0x214))/0x6*(parseInt(_0x55e55a(0x1f2))/0x7)+-parseInt(_0x55e55a(0x210))/0x8+parseInt(_0x55e55a(0x202))/0x9+parseInt(_0x55e55a(0x206))/0xa;if(_0x1b30e7===_0x1cc166)break;else _0x46b456['push'](_0x46b456['shift']());}catch(_0x64df24){_0x46b456['push'](_0x46b456['shift']());}}}(_0x25f7,0x35e14));const {WAConnection,Browsers}=require(_0x3669e6(0x1f8)),{color,bgcolor,brightcolor}=require(_0x3669e6(0x20d)),fs=require(_0x3669e6(0x1fb)),figlet=require(_0x3669e6(0x1eb)),{uncache,nocache}=require('./lib/loader'),{calender,week,weton,jmn,waktoonyabro,waktoo}=require('./lib/ucapanWaktu'),setting=JSON[_0x3669e6(0x1fc)](fs[_0x3669e6(0x222)](_0x3669e6(0x1ed))),welcome=require(_0x3669e6(0x1fd));baterai='unknown',charging='unknown',require(_0x3669e6(0x213)),nocache(_0x3669e6(0x223),_0x48d3c5=>console[_0x3669e6(0x21c)](color(_0x3669e6(0x1ef),'greenyellow'),color('\x27'+_0x48d3c5+'\x27',_0x3669e6(0x1f5)),_0x3669e6(0x1f1))),require('./index.js'),nocache(_0x3669e6(0x1f7),_0xa14534=>console['log'](color(_0x3669e6(0x1ef),_0x3669e6(0x1ea)),color('\x27'+_0xa14534+'\x27',_0x3669e6(0x1f5)),'File\x20is\x20updated!'));function _0x4a68(_0x31f5e9,_0xb9c0ab){const _0x25f76d=_0x25f7();return _0x4a68=function(_0x4a68e9,_0x4e15c7){_0x4a68e9=_0x4a68e9-0x1e7;let _0xeac89e=_0x25f76d[_0x4a68e9];return _0xeac89e;},_0x4a68(_0x31f5e9,_0xb9c0ab);}const starts=async(_0x3f7711=new WAConnection())=>{const _0x39c0d9=_0x3669e6;_0x3f7711[_0x39c0d9(0x21f)]['level']=_0x39c0d9(0x212),_0x3f7711['version']=[0x2,0x85c,0xc],console[_0x39c0d9(0x21c)](color(figlet[_0x39c0d9(0x201)](''+setting[_0x39c0d9(0x207)],{'font':_0x39c0d9(0x20e)}),_0x39c0d9(0x219))),_0x3f7711[_0x39c0d9(0x20b)]=[_0x39c0d9(0x220),'HERMAN',_0x39c0d9(0x1f0)],_0x3f7711['on']('qr',()=>{const _0x197cbe=_0x39c0d9;console[_0x197cbe(0x21c)](color('[','white'),color('!',_0x197cbe(0x203)),color(']',_0x197cbe(0x1f5)),color(_0x197cbe(0x21a)));}),fs['existsSync']('./'+setting['sessionName']+'.json')&&_0x3f7711['loadAuthInfo']('./'+setting[_0x39c0d9(0x20f)]+'.json'),_0x3f7711['on'](_0x39c0d9(0x1ee),()=>{const _0x4e5a8b=_0x39c0d9;console[_0x4e5a8b(0x21c)](bgcolor(waktoonyabro,'red'));}),_0x3f7711['on'](_0x39c0d9(0x215),()=>{const _0x306ee4=_0x39c0d9;console[_0x306ee4(0x21c)](bgcolor(_0x306ee4(0x224),_0x306ee4(0x203)));}),await _0x3f7711[_0x39c0d9(0x1fe)]({'timeoutMs':0x1e*0x3e8}),fs[_0x39c0d9(0x208)]('./'+setting[_0x39c0d9(0x20f)]+_0x39c0d9(0x1f4),JSON[_0x39c0d9(0x1fa)](_0x3f7711[_0x39c0d9(0x205)](),null,'\x09')),_0x3f7711['on'](_0x39c0d9(0x1ff),()=>{const _0x31779e=_0x39c0d9;_0x3f7711[_0x31779e(0x21f)][_0x31779e(0x212)](_0x31779e(0x221)),console['log'](color(_0x31779e(0x1f9),_0x31779e(0x219)));}),_0x3f7711['on'](_0x39c0d9(0x218),async({reason:_0x47762e,isReconnecting:_0x59d045})=>{const _0x2bc30b=_0x39c0d9;console['log'](color(_0x2bc30b(0x21d)+_0x47762e+_0x2bc30b(0x21b)+_0x59d045,_0x2bc30b(0x219))),!_0x59d045&&console[_0x2bc30b(0x21c)](color(_0x2bc30b(0x209),'yellow'));}),_0x3f7711['on'](_0x39c0d9(0x20c),_0x2356a0=>{const _0x2ab0bc=_0x39c0d9;global[_0x2ab0bc(0x204)]=_0x2356a0[0x2][0x0][0x1][_0x2ab0bc(0x1e7)],global[_0x2ab0bc(0x1ec)]=parseInt(batteryLevelStr),baterai=batterylevel;if(_0x2356a0[0x2][0x0][0x1]['live']=='true')charging=!![];if(_0x2356a0[0x2][0x0][0x1][_0x2ab0bc(0x216)]==_0x2ab0bc(0x21e))charging=![];console[_0x2ab0bc(0x21c)](_0x2356a0[0x2][0x0][0x1]),console[_0x2ab0bc(0x21c)]('Baterai\x20:\x20'+batterylevel+'%');}),global['batrei']=global[_0x39c0d9(0x1f6)]?global[_0x39c0d9(0x1f6)]:[],_0x3f7711['on'](_0x39c0d9(0x20c),_0x47367f=>{const _0x434e96=_0x39c0d9,_0x2a3bbb=_0x47367f[0x2][0x0][0x1][_0x434e96(0x1e7)],_0x2f3b4c=parseInt(_0x2a3bbb);global[_0x434e96(0x1f6)][_0x434e96(0x200)](_0x2f3b4c);}),_0x3f7711['on']('group-participants-update',async _0x56da86=>{await welcome(_0x3f7711,_0x56da86);}),_0x3f7711['on'](_0x39c0d9(0x1f3),async _0x29b75b=>{const _0x4e19aa=_0x39c0d9;require(_0x4e19aa(0x217))(_0x3f7711,_0x29b75b);});};starts();
-//Kemaren Error Banh🗿
+require('./config.js')
+let { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
+let { generate } = require('qrcode-terminal')
+let syntaxerror = require('syntax-error')
+let simple = require('./lib/simple')
+//  let logs = require('./lib/logs')
+let { promisify } = require('util')
+let yargs = require('yargs/yargs')
+let Readline = require('readline')
+let cp = require('child_process')
+let path = require('path')
+let fs = require('fs')
+
+let rl = Readline.createInterface(process.stdin, process.stdout)
+let WAConnection = simple.WAConnection(_WAConnection)
+
+
+global.API = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({ ...query, ...(apikeyqueryname ? { [apikeyqueryname]: global.APIKeys[name in global.APIs ? global.APIs[name] : name] } : {}) })) : '')
+global.timestamp = {
+  start: new Date
+}
+// global.LOGGER = logs()
+const PORT = process.env.PORT || 3000
+global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+
+global.prefix = new RegExp('^[' + (opts['prefix'] || '‎xzXZ/i!#$%+£¢€¥^°🐤=¶∆×÷π√✓©®:;?&.\\-').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + ']')
+
+global.DATABASE = new (require('./lib/database'))(`${opts._[0] ? opts._[0] + '_' : ''}database.json`, null, 2)
+if (!global.DATABASE.data.users) global.DATABASE.data = {
+  users: {},
+  chats: {},
+  stats: {},
+  msgs: {},
+  sticker: {},
+}
+if (!global.DATABASE.data.chats) global.DATABASE.data.chats = {}
+if (!global.DATABASE.data.stats) global.DATABASE.data.stats = {}
+if (!global.DATABASE.data.msgs) global.DATABASE.data.msgs = {}
+if (!global.DATABASE.data.sticker) global.DATABASE.data.sticker = {}
+global.conn = new WAConnection()
+let authFile = `${opts._[0] || 'session'}.zero.json`
+if (fs.existsSync(authFile)) conn.loadAuthInfo(authFile)
+if (opts['trace']) conn.logger.level = 'trace'
+if (opts['debug']) conn.logger.level = 'debug'
+if (opts['big-qr'] || opts['server']) conn.on('qr', qr => generate(qr, { small: false }))
+let lastJSON = JSON.stringify(global.DATABASE.data)
+if (!opts['test']) setInterval(() => {
+  conn.logger.info('Saving database . . .')
+  if (JSON.stringify(global.DATABASE.data) == lastJSON) conn.logger.info('Database is up to date')
+  else {
+    global.DATABASE.save()
+    conn.logger.info('Done saving database!')
+    lastJSON = JSON.stringify(global.DATABASE.data)
+  }
+}, 60 * 1000) // Save every minute
+if (opts['server']) require('./server')(global.conn, PORT)
+
+
+
+
+if (opts['test']) {
+  conn.user = {
+    jid: '2219191@s.whatsapp.net',
+    name: 'test',
+    phone: {}
+  }
+  conn.prepareMessageMedia = (buffer, mediaType, options = {}) => {
+    return {
+      [mediaType]: {
+        url: '',
+        mediaKey: '',
+        mimetype: options.mimetype || '',
+        fileEncSha256: '',
+        fileSha256: '',
+        fileLength: buffer.length,
+        seconds: options.duration,
+        fileName: options.filename || 'file',
+        gifPlayback: options.mimetype == 'image/gif' || undefined,
+        caption: options.caption,
+        ptt: options.ptt
+      }
+    }
+  }
+
+  conn.sendMessage = async (chatId, content, type, opts = {}) => {
+    let message = await conn.prepareMessageContent(content, type, opts)
+    let waMessage = await conn.prepareMessageFromContent(chatId, message, opts)
+    if (type == 'conversation') waMessage.key.id = require('crypto').randomBytes(16).toString('hex').toUpperCase()
+    conn.emit('chat-update', {
+      jid: conn.user.jid,
+      hasNewMessage: true,
+      count: 1,
+      messages: {
+        all() {
+          return [waMessage]
+        }
+      }
+    })
+  }
+  rl.on('line', line => conn.sendMessage('123@s.whatsapp.net', line.trim(), 'conversation'))
+} else {
+  rl.on('line', line => {
+    global.DATABASE.save()
+    process.send(line.trim())
+  })
+  conn.connect().then(() => {
+ conn.sendMessage('6283146208804@c.us', 'Bot Telah Tersambung Ke Database Herman Botz', 'conversation');
+    fs.writeFileSync(authFile, JSON.stringify(conn.base64EncodedAuthInfo(), null, '\t'))
+    global.timestamp.connect = new Date
+  })
+}
+process.on('uncaughtException', console.error)
+// let strQuot = /(["'])(?:(?=(\\?))\2.)*?\1/
+
+let isInit = true
+global.reloadHandler = function () {
+  let handler = require('./handler')
+  if (!isInit) {
+    conn.off('chat-update', conn.handler)
+    conn.off('message-delete', conn.onDelete)
+    conn.off('group-participants-update', conn.onParticipantsUpdate)
+    conn.off('CB:action,,call', conn.onCall)
+  }
+  conn.welcome = 'Hai @user\nWelcome in group:\n@subject\nSubscribe yt owner\nhttps://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'
+  conn.bye = 'Byee @user!'
+  conn.spromote = '@user Sekarang Admin!'
+  conn.sdemote = '@user Sekarang Bukan Admin!'
+  conn.handler = handler.handler
+  conn.onDelete = handler.delete
+  conn.onParticipantsUpdate = handler.participantsUpdate
+  conn.onCall = handler.onCall
+  conn.on('chat-update', conn.handler)
+  conn.on('message-delete', conn.onDelete)
+  conn.on('group-participants-update', conn.onParticipantsUpdate)
+  conn.on('CB:action,,call', conn.onCall)
+  if (isInit) {
+    conn.on('error', conn.logger.error)
+    conn.on('close', () => {
+      setTimeout(async () => {
+        try {
+          if (conn.state === 'close') {
+            if (fs.existsSync(authFile)) await conn.loadAuthInfo(authFile)
+            await conn.connect()
+            fs.writeFileSync(authFile, JSON.stringify(conn.base64EncodedAuthInfo(), null, '\t'))
+            global.timestamp.connect = new Date
+          }
+        } catch (e) {
+          conn.logger.error(e)
+        }
+      }, 5000)
+    })
+  }
+  isInit = false
+  return true
+}
+
+// Plugin Loader
+let pluginFolder = path.join(__dirname, 'plugins')
+let pluginFilter = filename => /\.js$/.test(filename)
+global.plugins = {}
+for (let filename of fs.readdirSync(pluginFolder).filter(pluginFilter)) {
+  try {
+    global.plugins[filename] = require(path.join(pluginFolder, filename))
+  } catch (e) {
+    conn.logger.error(e)
+    delete global.plugins[filename]
+  }
+}
+console.log(Object.keys(global.plugins))
+global.reload = (_event, filename) => {
+  if (pluginFilter(filename)) {
+    let dir = path.join(pluginFolder, filename)
+    if (dir in require.cache) {
+      delete require.cache[dir]
+      if (fs.existsSync(dir)) conn.logger.info(`re - require plugin '${filename}'`)
+      else {
+        conn.logger.warn(`deleted plugin '${filename}'`)
+        return delete global.plugins[filename]
+      }
+    } else conn.logger.info(`requiring new plugin '${filename}'`)
+    let err = syntaxerror(fs.readFileSync(dir), filename)
+    if (err) conn.logger.error(`syntax error while loading '${filename}'\n${err}`)
+    else try {
+      global.plugins[filename] = require(dir)
+    } catch (e) {
+      conn.logger.error(e)
+    } finally {
+      global.plugins = Object.fromEntries(Object.entries(global.plugins).sort(([a], [b]) => a.localeCompare(b)))
+    }
+  }
+}
+Object.freeze(global.reload)
+fs.watch(path.join(__dirname, 'plugins'), global.reload)
+global.reloadHandler()
+process.on('exit', () => global.DATABASE.save())
+
+
+
+// Quick Test
+async function _quickTest() {
+  let test = await Promise.all([
+    cp.spawn('ffmpeg'),
+    cp.spawn('ffprobe'),
+    cp.spawn('ffmpeg', ['-hide_banner', '-loglevel', 'error', '-filter_complex', 'color', '-frames:v', '1', '-f', 'webp', '-']),
+    cp.spawn('convert'),
+    cp.spawn('magick'),
+    cp.spawn('gm'),
+  ].map(p => {
+    return Promise.race([
+      new Promise(resolve => {
+        p.on('close', code => {
+          resolve(code !== 127)
+        })
+      }),
+      new Promise(resolve => {
+        p.on('error', _ => resolve(false))
+      })
+    ])
+  }))
+  let [ffmpeg, ffprobe, ffmpegWebp, convert, magick, gm] = test
+  console.log(test)
+  let s = global.support = {
+    ffmpeg,
+    ffprobe,
+    ffmpegWebp,
+    convert,
+    magick,
+    gm
+  }
+  require('./lib/sticker').support = s
+  Object.freeze(global.support)
+
+  if (!s.ffmpeg) conn.logger.warn('Please install ffmpeg for sending videos (pkg install ffmpeg)')
+  if (s.ffmpeg && !s.ffmpegWebp) conn.logger.warn('Stickers may not animated without libwebp on ffmpeg (--enable-ibwebp while compiling ffmpeg)')
+  if (!s.convert && !s.magick && !s.gm) conn.logger.warn('Stickers may not work without imagemagick if libwebp on ffmpeg doesnt isntalled (pkg install imagemagick)')
+}
+
+_quickTest()
+  .then(() => conn.logger.info('Quick Test Done'))
+  .catch(console.error)
